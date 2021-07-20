@@ -21,6 +21,7 @@ if (isSleepy())
     else{
         shoutHooray();
     }
+    sleep(2);
 if (isBored())
     {
      dance();   
